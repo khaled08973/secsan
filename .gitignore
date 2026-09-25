@@ -1,0 +1,7 @@
+# Generated scan output — never commit real assessment data
+reports/*
+!reports/.gitkeep
+
+# Editor / OS noise
+*.swp
+.DS_Store

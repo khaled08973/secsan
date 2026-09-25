@@ -1,0 +1,4 @@
+# secscan targets file — one host per line. Lines starting with # are ignored.
+# Only list systems you own or are explicitly authorised to test.
+192.168.56.10
+192.168.56.11
